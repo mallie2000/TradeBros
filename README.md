@@ -1,4 +1,4 @@
-# CS180-Project
+# Trading Platform Website
 
 Authors: [Muzammil Allie](https://github.com/mallie2000)
          [Shaheen Islam](https://github.com/skiislam)
@@ -37,14 +37,6 @@ Trade bros is a website that displays and tracks various US stocks. The website 
 * The virtual portfolio breaks down the performance of their selected stocks
 * Text notifications
 
-## Diagrams
-### Use Case Diagram
-![image](https://user-images.githubusercontent.com/90886440/217700641-6e2fe2b4-fe01-4811-b81f-c37ded735cb8.png)
-
-### Activity Diagram
-#Dependecies
-Install npn and npx depending on your OS 
-npm react-router-dom
 
 
 
